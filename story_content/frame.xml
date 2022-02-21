@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00001100001" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00001100001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
     <layout name="npnxnanbsnfns00001100001" font="PF BeauSans Pro" controllayout="npnxnanbsnfns00001100001" colorscheme="npnxnanbnsnfns00001100001" string_table="npnxnanbnsnfns00001100001" />
     <layout name="pxabnsnfns00001100001" font="PF BeauSans Pro" controllayout="pxabnsnfns00001100001" colorscheme="npnxnanbnsnfns00001100001" string_table="npnxnanbnsnfns00001100001" />
@@ -42,7 +42,6 @@
               <option name="height" value="135" />
             </options>
           </option>
-          <option name="logoAltText" />
         </options>
       </optiongroup>
       <optiongroup name="menuoptions">
@@ -1137,124 +1136,60 @@
   <string_tables>
     <string_table name="npnxnanbnsnfns00001100001">
       <string id="acc_active">активна</string>
-      <string id="acc_closed_captions">Скрытые субтитры. Нажмите клавишу пробела, чтобы включить или выключить субтитры.</string>
-      <string id="acc_definition">определение</string>
-      <string id="acc_finish">готово</string>
-      <string id="acc_locked">запер(ла) дверь</string>
-      <string id="acc_next">далее</string>
-      <string id="acc_pause">пауза</string>
-      <string id="acc_play">воспроизведение</string>
-      <string id="acc_previous">назад</string>
-      <string id="acc_replay">повтор</string>
-      <string id="acc_resources">ресурсы</string>
-      <string id="acc_search_input">поиск</string>
-      <string id="acc_skipnavigation">Не отображать средства навигации. Нажмите клавишу ВВОД, чтобы вернуться к слайду.</string>
-      <string id="acc_slide_progress">прогресс слайдов</string>
-      <string id="acc_submit">отправить</string>
-      <string id="acc_submitall">отправить все</string>
-      <string id="acc_visited">посетил(а)</string>
-      <string id="acc_volume">громкость</string>
-      <string id="accessible_text">Доступный текст</string>
-      <string id="acctext_shortcut">Переключить субтитры</string>
-      <string id="action">Действие</string>
-      <string id="alt_key">Alt</string>
-      <string id="bio">Биография</string>
       <string id="check_include">Включить в список</string>
       <string id="clear">Сброс и возврат в меню</string>
       <string id="close">Закрыть</string>
-      <string id="closed_captions">Субтитры</string>
-      <string id="closed_captions_tip">Переключение субтитров</string>
-      <string id="closedcaptions_shortcut">Переключить доступный текст</string>
+      <string id="acc_closed_captions">Скрытые субтитры. Нажмите клавишу пробела, чтобы включить или выключить субтитры.</string>
       <string id="continue">Продолжить</string>
       <string id="continueresponsive">Продолжить</string>
-      <string id="ctrl_key">Ctrl</string>
-      <string id="definition">Определение</string>
-      <string id="desktop_start">Начать курс</string>
-      <string id="disabled_orientation">Поверните устройство</string>
-      <string id="enable_keyboardshortcuts">Включить комбинации клавиш</string>
-      <string id="enter_key">Enter</string>
       <string id="exit">Выйти</string>
       <string id="filter">Фильтр</string>
       <string id="finish">ГОТОВО</string>
+      <string id="acc_finish">готово</string>
+      <string id="definition">Определение</string>
+      <string id="acc_definition">определение</string>
       <string id="glossary">Словарь</string>
+      <string id="terms">Термины</string>
+      <string id="action">Действие</string>
       <string id="keyboardshortcuts">Сочетания клавиш на клавиатуре</string>
-      <string id="keyboardshortcuts_lower">Сочетания клавиш на клавиатуре</string>
-      <string id="mobile_start">Начать курс</string>
-      <string id="more_info">Дополнительно</string>
-      <string id="mute_shortcut">Выкл./Вкл. звук</string>
-      <string id="mute_tip">Выкл. звук</string>
-      <string id="next">ДАЛЕЕ</string>
-      <string id="next_shortcut">Следующий слайд</string>
-      <string id="next_slide_tip">Следующий слайд</string>
+      <string id="shortcuthelp">Перечислить сочетания клавиш на клавиатуре</string>
+      <string id="shortcut">Сочетание клавиш</string>
+      <string id="togglezoom">Переключить масштаб по размеру</string>
       <string id="outline">Меню</string>
-      <string id="pause_tip">Пауза</string>
-      <string id="play_tip">Воспроизведение</string>
-      <string id="playpause_shortcut">Воспроизведение / Пауза</string>
+      <string id="disabled_orientation">Поверните устройство</string>
+      <string id="next">ДАЛЕЕ</string>
+      <string id="acc_next">далее</string>
+      <string id="transcript_chk">Примечания</string>
+      <string id="transcript">Примечания</string>
+      <string id="bio">Биография</string>
+      <string id="more_info">Дополнительно</string>
+      <string id="closed_captions">Субтитры</string>
+      <string id="acc_pause">пауза</string>
+      <string id="acc_play">воспроизведение</string>
+      <string id="send_an_email">Отправить письмо</string>
       <string id="prev">НАЗАД</string>
-      <string id="previous_shortcut">Предыдущий слайд</string>
-      <string id="previous_slide_tip">Предыдущий слайд</string>
-      <string id="progress_hour">час</string>
-      <string id="progress_hours">часов</string>
-      <string id="progress_minute">минута</string>
-      <string id="progress_minutes">минут</string>
-      <string id="progress_second">секунда</string>
-      <string id="progress_seconds">секунд</string>
+      <string id="acc_previous">назад</string>
       <string id="question_list">Список вопросов</string>
-      <string id="replay_shortcut">Повторить слайд</string>
-      <string id="replay_tip">Повторить</string>
+      <string id="acc_replay">повтор</string>
       <string id="resources">Ресурсы</string>
+      <string id="acc_resources">ресурсы</string>
       <string id="restart">Продолжить</string>
       <string id="resume">Возобновить тест</string>
+      <string id="acc_search_input">поиск</string>
+      <string id="search_toggle">Поиск</string>
+      <string id="sidebar_toggle">Переключение боковых панелей</string>
+      <string id="desktop_start">Начать обучение</string>
+      <string id="mobile_start">Начать обучение</string>
       <string id="search">Поиск...</string>
       <string id="search_in">Поиск:</string>
       <string id="search_results">Результаты поиска</string>
-      <string id="search_toggle">Поиск</string>
-      <string id="send_an_email">Отправить письмо</string>
-      <string id="settings_tip">Параметры</string>
-      <string id="shift_key">Shift</string>
-      <string id="shortcut">Сочетание клавиш</string>
-      <string id="shortcuthelp">Перечислить сочетания клавиш на клавиатуре</string>
-      <string id="sidebar_toggle">Переключение боковых панелей</string>
+      <string id="acc_skipnavigation">Не отображать средства навигации. Нажмите клавишу ВВОД, чтобы вернуться к слайду.</string>
       <string id="slide_text_chk">Текст слайда</string>
-      <string id="spacebar_key">Space</string>
-      <string id="submit">ОТПРАВИТЬ</string>
-      <string id="submit_shortcut">Добавить слайд</string>
-      <string id="submit_tip">Добавить</string>
       <string id="submitall">ОТПРАВИТЬ ВСЕ</string>
-      <string id="terms">Термины</string>
-      <string id="three_image_audio">аудио</string>
-      <string id="three_image_camera_down">камера перемещена вниз</string>
-      <string id="three_image_camera_left">камера перемещена влево</string>
-      <string id="three_image_camera_right">камера перемещена вправо</string>
-      <string id="three_image_camera_up">камера перемещена вверх</string>
-      <string id="three_image_hotspot">горячая точка</string>
-      <string id="three_image_instructions">Используйте клавиши W, A, S и D для перемещения по 360-градусному изображению. Нажмите клавишу Tab для перехода к интерактивным маркерам и горячим точкам.</string>
-      <string id="three_image_interaction">Взаимодействие с 360-градусным изображением</string>
-      <string id="three_image_interaction_free">режим свободного исследования</string>
-      <string id="three_image_interaction_guided">режим путеводителя</string>
-      <string id="three_image_interaction_next">далее</string>
-      <string id="three_image_interaction_prev">назад</string>
-      <string id="three_image_interaction_step">шаг</string>
-      <string id="three_image_item">предмет</string>
-      <string id="three_image_items">предметы</string>
-      <string id="three_image_label">ярлык</string>
-      <string id="three_image_marker">маркер</string>
-      <string id="three_image_of">из</string>
-      <string id="three_image_pause_audio">приостановить аудио</string>
-      <string id="three_image_pause_video">приостановить видео</string>
-      <string id="three_image_play_audio">воспроизвести аудио</string>
-      <string id="three_image_play_video">воспроизвести видео</string>
-      <string id="three_image_progress_audio">прогресс</string>
-      <string id="three_image_progress_video">прогресс</string>
-      <string id="three_image_video">видео</string>
-      <string id="three_image_video_volume">громкость видео</string>
-      <string id="three_image_view_image">посмотреть изображение</string>
-      <string id="three_image_visited">посещено</string>
-      <string id="togglezoom">Переключить масштаб по размеру</string>
-      <string id="transcript">Примечания</string>
-      <string id="transcript_chk">Примечания</string>
-      <string id="unmute_tip">Вкл. звук</string>
-      <string id="zoom_to_fit">Приближайте, чтобы подогнать по размеру</string>
+      <string id="acc_submitall">отправить все</string>
+      <string id="submit">ОТПРАВИТЬ</string>
+      <string id="acc_submit">отправить</string>
+      <string id="acc_volume">громкость</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1356,20 +1291,20 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='PF BeauSans Pro' style='font-size: 11px;' size='11' color='#444444'&gt;&amp;#1047;&amp;#1076;&amp;#1077;&amp;#1089;&amp;#1100; &amp;#1087;&amp;#1086;&amp;#1083;&amp;#1077;&amp;#1079;&amp;#1085;&amp;#1099;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1082;&amp;#1091;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1090;&amp;#1099; &amp;#1080; &amp;#1089;&amp;#1089;&amp;#1099;&amp;#1083;&amp;#1082;&amp;#1080;:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/references on GOST.pdf" image="story_content/5YnA7R1f8B1.png" title="Указатель вложенных ГОСТов" />
-      <resource url="story_content/external_files/CKBA_Ukazatel_standartov_2018.pdf" image="story_content/6ZjwwXMsDUB.png" title="Указатель ЦКБА на действующие стандарты" />
-      <resource url="story_content/external_files/GOST 24856-2014.pdf" image="story_content/5c8akVOIUkh.png" title="ГОСТ 24856-2014" />
-      <resource url="story_content/external_files/9544-2015.pdf" image="story_content/6QXZjZRdf5u.png" title="ГОСТ 9544-2015" />
-      <resource url="story_content/external_files/gost_28338-89.pdf" image="story_content/5YBZ2oPEZz4.png" title="ГОСТ 28338-89" />
-      <resource url="story_content/external_files/gost-356-80.pdf" image="story_content/5Y75F5HMBh8.png" title="ГОСТ 356-80" />
-      <resource url="story_content/external_files/GOST 33257_2015.pdf" image="story_content/6n41vgvSZGa.png" title="ГОСТ 33257-2015" />
-      <resource url="story_content/external_files/gost_15150-69.pdf" image="story_content/6ReInEK9aJK.png" title="ГОСТ 15150‑69" />
-      <resource url="story_content/external_files/GOST 55510-2013.pdf" image="story_content/67p3PGOuwff.png" title="ГОСТ 55510-2013" />
-      <resource url="story_content/external_files/gost-3706-93.pdf" image="story_content/5z3idZpS4n3.png" title="ГОСТ 3706-93" />
-      <resource url="story_content/external_files/gost-3326-86.pdf" image="story_content/6co0SwahH1x.png" title="ГОСТ 3326-86" />
-      <resource url="story_content/external_files/gost-16587-71.pdf" image="story_content/6rNVCg3KtqX.png" title="ГОСТ 16587-71" />
-      <resource url="story_content/external_files/gost-14187-84.pdf" image="story_content/5kc11niVA7u.png" title="ГОСТ 14187-84" />
-      <resource url="story_content/external_files/gost-28908-91.pdf" image="story_content/6F0DbYPVaZz.png" title="ГОСТ 28908-91" />
+      <resource url="story_content/external_files/references on GOST.pdf" image="story_content/5oEjzsB2Eu5.png" title="Указатель вложенных ГОСТов" />
+      <resource url="story_content/external_files/CKBA_Ukazatel_standartov_2018.pdf" image="story_content/6FMlVvamKwG.png" title="Указатель ЦКБА на действующие стандарты" />
+      <resource url="story_content/external_files/GOST 24856-2014.pdf" image="story_content/6dCJvKr4Xmt.png" title="ГОСТ 24856-2014" />
+      <resource url="story_content/external_files/9544-2015.pdf" image="story_content/6NYVzX6zTpi.png" title="ГОСТ 9544-2015" />
+      <resource url="story_content/external_files/gost_28338-89.pdf" image="story_content/6kw96g6kpUJ.png" title="ГОСТ 28338-89" />
+      <resource url="story_content/external_files/gost-356-80.pdf" image="story_content/6Fa7rMyBX0x.png" title="ГОСТ 356-80" />
+      <resource url="story_content/external_files/GOST 33257_2015.pdf" image="story_content/5pQBZghLI7L.png" title="ГОСТ 33257-2015" />
+      <resource url="story_content/external_files/gost_15150-69.pdf" image="story_content/6XwrQYogHry.png" title="ГОСТ 15150‑69" />
+      <resource url="story_content/external_files/GOST 55510-2013.pdf" image="story_content/6SxoEzWEfgB.png" title="ГОСТ 55510-2013" />
+      <resource url="story_content/external_files/gost-3706-93.pdf" image="story_content/6KNIH2LQ3bg.png" title="ГОСТ 3706-93" />
+      <resource url="story_content/external_files/gost-3326-86.pdf" image="story_content/6byLEnfiGrV.png" title="ГОСТ 3326-86" />
+      <resource url="story_content/external_files/gost-16587-71.pdf" image="story_content/64UpBBhEYrS.png" title="ГОСТ 16587-71" />
+      <resource url="story_content/external_files/gost-14187-84.pdf" image="story_content/5ZY6kurEEhF.png" title="ГОСТ 14187-84" />
+      <resource url="story_content/external_files/gost-28908-91.pdf" image="story_content/5aMPf8WzjDP.png" title="ГОСТ 28908-91" />
     </resources>
   </resource_data>
   <transcript_data />
