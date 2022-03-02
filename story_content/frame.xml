@@ -1291,20 +1291,20 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='PF BeauSans Pro' style='font-size: 11px;' size='11' color='#444444'&gt;&amp;#1047;&amp;#1076;&amp;#1077;&amp;#1089;&amp;#1100; &amp;#1087;&amp;#1086;&amp;#1083;&amp;#1077;&amp;#1079;&amp;#1085;&amp;#1099;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1082;&amp;#1091;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1090;&amp;#1099; &amp;#1080; &amp;#1089;&amp;#1089;&amp;#1099;&amp;#1083;&amp;#1082;&amp;#1080;:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/references on GOST.pdf" image="story_content/5oEjzsB2Eu5.png" title="Указатель вложенных ГОСТов" />
-      <resource url="story_content/external_files/CKBA_Ukazatel_standartov_2018.pdf" image="story_content/6FMlVvamKwG.png" title="Указатель ЦКБА на действующие стандарты" />
-      <resource url="story_content/external_files/GOST 24856-2014.pdf" image="story_content/6dCJvKr4Xmt.png" title="ГОСТ 24856-2014" />
-      <resource url="story_content/external_files/9544-2015.pdf" image="story_content/6NYVzX6zTpi.png" title="ГОСТ 9544-2015" />
-      <resource url="story_content/external_files/gost_28338-89.pdf" image="story_content/6kw96g6kpUJ.png" title="ГОСТ 28338-89" />
-      <resource url="story_content/external_files/gost-356-80.pdf" image="story_content/6Fa7rMyBX0x.png" title="ГОСТ 356-80" />
-      <resource url="story_content/external_files/GOST 33257_2015.pdf" image="story_content/5pQBZghLI7L.png" title="ГОСТ 33257-2015" />
-      <resource url="story_content/external_files/gost_15150-69.pdf" image="story_content/6XwrQYogHry.png" title="ГОСТ 15150‑69" />
-      <resource url="story_content/external_files/GOST 55510-2013.pdf" image="story_content/6SxoEzWEfgB.png" title="ГОСТ 55510-2013" />
-      <resource url="story_content/external_files/gost-3706-93.pdf" image="story_content/6KNIH2LQ3bg.png" title="ГОСТ 3706-93" />
-      <resource url="story_content/external_files/gost-3326-86.pdf" image="story_content/6byLEnfiGrV.png" title="ГОСТ 3326-86" />
-      <resource url="story_content/external_files/gost-16587-71.pdf" image="story_content/64UpBBhEYrS.png" title="ГОСТ 16587-71" />
-      <resource url="story_content/external_files/gost-14187-84.pdf" image="story_content/5ZY6kurEEhF.png" title="ГОСТ 14187-84" />
-      <resource url="story_content/external_files/gost-28908-91.pdf" image="story_content/5aMPf8WzjDP.png" title="ГОСТ 28908-91" />
+      <resource url="story_content/external_files/references on GOST.pdf" image="story_content/6G5lUVrXrcU.png" title="Указатель вложенных ГОСТов" />
+      <resource url="story_content/external_files/CKBA_Ukazatel_standartov_2018.pdf" image="story_content/64UBWTVDuhW.png" title="Указатель ЦКБА на действующие стандарты" />
+      <resource url="story_content/external_files/GOST 24856-2014.pdf" image="story_content/6aEmoTyaOvx.png" title="ГОСТ 24856-2014" />
+      <resource url="story_content/external_files/9544-2015.pdf" image="story_content/5oLGTvmuaYy.png" title="ГОСТ 9544-2015" />
+      <resource url="story_content/external_files/gost_28338-89.pdf" image="story_content/613yiLtQ5Rj.png" title="ГОСТ 28338-89" />
+      <resource url="story_content/external_files/gost-356-80.pdf" image="story_content/5YCbDn72dxt.png" title="ГОСТ 356-80" />
+      <resource url="story_content/external_files/GOST 33257_2015.pdf" image="story_content/5pCEIpKPwVP.png" title="ГОСТ 33257-2015" />
+      <resource url="story_content/external_files/gost_15150-69.pdf" image="story_content/5ifQgKJzMUH.png" title="ГОСТ 15150‑69" />
+      <resource url="story_content/external_files/GOST 55510-2013.pdf" image="story_content/6aJpfygb9cy.png" title="ГОСТ 55510-2013" />
+      <resource url="story_content/external_files/gost-3706-93.pdf" image="story_content/65ixmm9CCd9.png" title="ГОСТ 3706-93" />
+      <resource url="story_content/external_files/gost-3326-86.pdf" image="story_content/6XiLsucvwk6.png" title="ГОСТ 3326-86" />
+      <resource url="story_content/external_files/gost-16587-71.pdf" image="story_content/677LpQW9DXV.png" title="ГОСТ 16587-71" />
+      <resource url="story_content/external_files/gost-14187-84.pdf" image="story_content/5iKBfJ4gEsT.png" title="ГОСТ 14187-84" />
+      <resource url="story_content/external_files/gost-28908-91.pdf" image="story_content/5pu9kKhUXrt.png" title="ГОСТ 28908-91" />
     </resources>
   </resource_data>
   <transcript_data />
